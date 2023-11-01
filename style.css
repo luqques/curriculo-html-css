@@ -1,0 +1,32 @@
+body {
+    background-color: #282A35;
+  }
+  
+  .titulo_pagina{
+    color: white;
+    margin-top: 170px;
+    font-size: 5ch;
+    font-family: sans-serif;
+  }
+
+  .subtitulo_pagina{
+    color: #FFF4A3;
+    font-size: 30px;
+    font-family: sans-serif;
+  }
+
+  .foto_perfil{
+    align-items: center;
+    text-align: center;
+    size: 1000px;
+  }
+
+  .descricao{
+    background-color: #FFF4A3;
+    height: 300px;
+    text-align: center;
+    color: black;
+    padding-top: 100px;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
