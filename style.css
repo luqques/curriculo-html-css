@@ -2,20 +2,20 @@ body {
     background-color: #282A35;
   }
   
-  .titulo_pagina{
+  .titulo-pagina{
     color: white;
     margin-top: 170px;
     font-size: 5ch;
     font-family: sans-serif;
   }
 
-  .subtitulo_pagina{
+  .subtitulo-pagina{
     color: #FFF4A3;
     font-size: 30px;
     font-family: sans-serif;
   }
 
-  .foto_perfil{
+  .foto-perfil{
     align-items: center;
     text-align: center;
     size: 1000px;
