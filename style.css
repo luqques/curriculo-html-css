@@ -1,32 +1,60 @@
-body {
+  body {
     background-color: #282A35;
+    width: 100%;
   }
   
-  .titulo-pagina{
+  .titulo{
     color: white;
-    margin-top: 170px;
-    font-size: 5ch;
+    margin-top: 100px;
+    font-size: 50px;
     font-family: sans-serif;
+    font-weight: 700;
   }
 
-  .subtitulo-pagina{
+  .subtitulo{
     color: #FFF4A3;
     font-size: 30px;
     font-family: sans-serif;
+    margin-top: 30px;
   }
 
-  .foto-perfil{
-    align-items: center;
+  #foto-perfil{
     text-align: center;
-    size: 1000px;
+    transform: scale(0.7);
+    filter: brightness(120%);
+    filter: contrast(120%);
+    filter: drop-shadow(10px 10px 10px #FFF4A3);
+  }
+
+  .content{
+    background-color: #FFF4A3;
+    height: 100%;
+    text-align: center;
+    color: black;
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+
+  .flex{
+    display: flex;
+  }
+
+  .titulo-descricao{
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .icone-descricao{
+    font-size: 100px;
+    margin-top: 50px;
   }
 
   .descricao{
+    padding: 40px;
     background-color: #FFF4A3;
-    height: 300px;
     text-align: center;
     color: black;
-    padding-top: 100px;
     font-family: sans-serif;
     font-size: 20px;
   }
