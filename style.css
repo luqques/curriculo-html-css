@@ -1,11 +1,8 @@
   
-  * {
-    font-family: "Exo2-Regular";
-  }
 
   @font-face{
     font-family: "Exo2-Regular";
-    src: url(".assets\fonts\static\Exo2-Regular.ttf") format("truetype");
+    src: url(".assets/fonts/static/Exo2-Regular.ttf") format("truetype");
   }
 
   header{
@@ -13,11 +10,13 @@
     background: #165C7D;
     text-align: center;
     color: white;
+    font-family: "Exo2-Regular";
   }
 
   body {
     background-color: #FFA300;
     width: 100%;
+    font-family: "Exo2-Regular";
   }
 
   .titulo{
@@ -32,6 +31,7 @@
     font-size: 32px;
     font-weight: 600;
     padding-top: 80px;
+    font-family: "Exo2-Regular";
   }
 
   #foto-perfil{
@@ -58,7 +58,7 @@
   .titulo-descricao{
     font-size: 30px;
     padding: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Exo2-Regular";
   }
   
   .icone-descricao{
@@ -69,7 +69,7 @@
   .descricao{
     padding: 10px 40px 40px 40px;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Exo2-Regular";
     font-size: 20px;
     color: rgba(255, 255, 255, 0.90);
   }
