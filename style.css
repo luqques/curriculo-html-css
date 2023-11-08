@@ -50,6 +50,7 @@
   .titulo-descricao{
     font-size: 30px;
     padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   
   .icone-descricao{
@@ -62,6 +63,6 @@
     background-color: #FFC629;
     text-align: center;
     color: black;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
   }
